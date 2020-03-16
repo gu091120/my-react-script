@@ -1,6 +1,6 @@
 {
   "name": "gujy-react-script",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "git@github.com:gu091120/my-react-script.git",
   "author": "Gujy",
@@ -89,7 +89,13 @@
     ]
   },
   "files": [
-    "bin"
+    "bin",
+    "config",
+    "lib",
+    "scripts",
+    "template",
+    "template-typescript",
+    "utils"
   ],
   "engines": {
     "node": ">=8.10"

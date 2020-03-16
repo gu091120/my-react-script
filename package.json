@@ -1,0 +1,23 @@
+{
+  "name": "gujy-react-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gu091120/my-react-script.git",
+  "author": "Gujy",
+  "license": "MIT",
+  "dependencies": {
+    "react-app-rewired": "^2.1.5",
+    "react-scripts": "^3.4.0",
+    "react-scripts-ts": "^3.1.0"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=8.10"
+  },
+  "config-overrides-path":"./my-rewire.js",
+  "bin": {
+    "my-scripts": "./bin/my-script.js"
+  }
+}

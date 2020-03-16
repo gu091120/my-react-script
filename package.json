@@ -1,6 +1,6 @@
 {
   "name": "gujy-react-script",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "repository": "git@github.com:gu091120/my-react-script.git",
   "author": "Gujy",
@@ -102,6 +102,6 @@
   },
   "config-overrides-path":"./my-rewire.js",
   "bin": {
-    "my-scripts": "./bin/my-script.js"
+    "my-scripts": "./bin/react-scripts.js"
   }
 }

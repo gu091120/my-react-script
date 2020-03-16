@@ -10,7 +10,6 @@ function App() {
         <p>
         hellow world!
         </p>
-      
       </header>
     </div>
   );
